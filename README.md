@@ -1,8 +1,10 @@
 <div align="center">
   <h1>Arcen ciel: Your Color Generation App</h1>
+  <h2>
   <a href="https://your-app-site-url.com" target="_blank">
-    <h2>Demo</h2>
+    Demo
   </a>
+  </h2>
 </div>
 
 Arcen ciel is a versatile and user-friendly color generation app built using React. Explore, experiment, and create stunning color palettes with ease, and bring your creative projects to life. Whether you're a designer, developer, or artist, ColorCraft empowers you to harness the power of color in your work.
