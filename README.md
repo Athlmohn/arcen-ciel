@@ -34,7 +34,7 @@ Arcen ciel is a versatile and user-friendly color generation app built using Rea
 
 ## Demo
 
-Experience a live demo of Arcen ciel [here](https://Arcenciel.vercel.app){:target="_blank"}.
+Experience a live demo of Arcen ciel [here](https://Arcenciel.vercel.app).
 
 ## Contributing
 
@@ -52,6 +52,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-Have questions, suggestions, or feedback? Feel free to reach out to us at [athulmohan@gmail.com](mailto:athulmohan@gmail.com).
+Have questions, suggestions, or feedback? Feel free to reach out to us at [LinkedIn](https://www.linkedin.com/in/athlmohn/).
 
 ---
